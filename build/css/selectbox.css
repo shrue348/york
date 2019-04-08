@@ -26,9 +26,9 @@
 .selectbox .dropdown li { height: 49px; line-height: 49px; min-width: 200px; transition: all .2s ease; padding: 0 .65em; cursor: pointer; font-size: 18px; color: #6b6b6b; }
 .selectbox .dropdown li:hover { background-color: #fff; }
 
-
+/*
 @media (max-width: 767px) {
   .selectbox .select { height: 21px; line-height: 21px; font-size: 9px; }
   .selectbox .dropdown { top: 24px !important; }
   .selectbox .dropdown li { height: 21px; line-height: 21px; font-size: 9px; }
-}
+}*/
