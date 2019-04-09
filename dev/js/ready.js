@@ -251,3 +251,41 @@ $(function(){
 $(function() { 
   $('select.select').selectbox();
 });  
+
+$(function(){
+  $('.l_item__img_big').jParallax({ moveFactor: 5 });
+  $('.l_item__img_big_wrap-after').jParallax({ moveFactor: 10 });
+  //$('.l_item__img_wrap-after').jParallax({ moveFactor: 15 });
+  $('.l_item__img').jParallax({ moveFactor: 35 });
+
+  $('.items_item__img_big').jParallax({ moveFactor: 5 });
+  $('.items_item__img').jParallax({ moveFactor: 25 });
+
+  $('.item__img_big').jParallax({ moveFactor: 5 });
+  $('.item__img_wrap-before').jParallax({ moveFactor: 10 });
+  $('.item__img_wrap-after').jParallax({ moveFactor: 15 });
+  $('.item__img').jParallax({ moveFactor: 35 });
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
